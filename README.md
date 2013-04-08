@@ -1,4 +1,4 @@
 PresentationMarsJug
 ===================
 
-Slide de la présentation DIY donnée au MarsJUG le 9/04
+Slides de la présentation DIY donnée au MarsJUG le 9/04
