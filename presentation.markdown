@@ -75,7 +75,7 @@ Pour avoir plus d'info :
 
 # Internet des objets
   - De plus en plus d'objet sont connecté au réseau (Téléphone, Télé, Voiture, Console de jeux, Montre, ...)
-  - Cette profusion d'appareils connectés est une aubaine pour imaginer de nouvelles application
+  - Cette profusion d'appareils connectés est une aubaine pour imaginer de nouvelles applications
   - Pourquoi pas créer soi même ses appareils connectés ? 
   
 # Physical computing
