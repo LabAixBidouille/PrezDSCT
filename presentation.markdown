@@ -10,7 +10,6 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 - Sébastien NEDJAR (@nedseb)
 ![nedseb au travail](chemestrycat.jpg)
 
-
 # À propos
 - Sébastien NEDJAR (@nedseb)
     + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF. 
@@ -25,10 +24,10 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 - Agilité et makers
 - Démonstration impression 3D
 
-# Contexte: De la bidouille au DIY
+# De la bidouille au DIY
 ![chausson de la mamie à nedseb](chausson_DIY.jpg)
 
-# Contexte: De la bidouille au DIY
+# De la bidouille au DIY
 ![table du papi à nedseb](table_DIY.jpg)
 
 # La bidouille comme un hobby
@@ -36,7 +35,6 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 -	Réalisation de soi-même par la réalisation de projets tangibles
 -	Concrétisation de désir
 -	Liberté/Créativité/Plaisir/Innovation
--	Passion
 
 # La bidouille comme un hobby
 ![Je trouve se tour Effel très belle ](tour_effel.jpg)
@@ -45,7 +43,7 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 -	Manque de moyens, de temps et d'espace
 -	Peu de participants
 -	Forte chance d'échec
--	Pas de partage
+-	Pas de partage ni de capitalisation des connaissances
 
 # La bidouille dans un garage
 ![nedseb quand il doit abandonner un projet](trashcat.jpg)
@@ -134,17 +132,21 @@ Et qu'y a t-il de mieux pour apprendre que de faire par soi même ?
 # Maker
 - Une personne qui pratique le DIY. Elle fabrique ses propres outils/instruments/objets en s'appuyant sur une communauté avec qui elle partage ses projets.
 - L'objectif de ce partage est de rendre à la communauté l'aide qu'elle nous a apporté.
+- L'effet de levier apporté par les briques mis à disposition de la communauté permet une émergence rapide des projets.
 - Moteur de ce que certains appellent la troisième révolution industrielle.
-- Un exemple d'émergence d'une communauté auto-organisée qui fait du travail collaboratif et de l'open-innovation.
 
 # Effet de mode ou mouvement de fond ?
+- Un exemple d'émergence d'une communauté auto-organisée collaborative et innovante.
 - Le mouvement des makers est une forme de passage de la bidouille informatique à la bidouille des objets physiques.
 - Nous sommes à un instant particulier de l'Histoire : la révolution de la fabrication numérique pour tous.
 - Comme pour l'informatique dans les années 80, on est à un moment d'effervescence qu'il faut péréniser.
 - Peut-être le début de la transformation radicale du modèle industriel actuel ?
 
 #Le manifeste du mouvement des makers
-Comme tout mouvement voulant apporter du changement, les makers se sont dotés un manifeste. Pour ce manifeste, comme tous les outils des makers, il est fortement recommandé de le modifier et de l'adapter librement pour se l'approprier.
+Comme tout mouvement voulant apporter du changement, les makers se sont dotés un manifeste. Pour ce manifeste, comme pour tous les outils des makers, il est fortement recommandé de le modifier et de l'adapter librement pour se l'approprier.
+
+#Le manifeste du mouvement des makers
+ ![Manifeste du mouvement des Makers](MakersManifeste.png)
 
 #Le manifeste du mouvement des makers: Make
 Making is fundamental to what it means to be human. We must make, create, and express ourselves to feel whole. There is something unique about making physical things. 
@@ -174,7 +176,6 @@ This is a movement, and it requires emotional, intellectual, financial, politica
 Embrace the change that will naturally occur as you go through your maker journey. Since making is fundamental to what it means to be human, you will become a more complete version of you as you make.
 
 # MakerSpace/Hackerspace/Fab Lab ?
-- Tiers-Lieux
 - Lieux ouverts, communautaires et collaboratifs
 - Mise en commun de ressources et d'outils
 - Réalisation de projets variés :
@@ -184,16 +185,16 @@ Embrace the change that will naturally occur as you go through your maker journe
     - Et bien pire encore
 - Échange de compétences
 
-# Laboratoire d'Aix-périmentation et de bidouille
-![labaix](lab02.png)
+# Fab Lab Provence
+![fablab](fablabprovence.jpg)
 
-# Laboratoire d'Aix-périmentation et de bidouille
-- Fab Lab ouvert à tous (*i.e* même aux marseillais pour vous dire)
-- Pour l'instant situé dans le département Informatique de l'IUT d'Aix
-- Soirées Geekbidouilles le 3ème vendredi du mois (démos, bricolage et pizzas)
+# Fab Lab Provence
+- Fab Lab ouvert à tous (*i.e* même à moi pour vous dire)
+- Animé par deux associations, le Laboratoire d'Aix-périmentation et de bidouille et Design the Future Now.
+- Soirées Geekbidouilles le 3ème vendredi du mois (présentation des projets, ateliers bidouille et pizzas).
 - Notre credo : être un Fab Lab qui essaime la philosophie des makers sur tout le territoire provençal.
 
-# Laboratoire d'Aixpérimentation et de bidouille
+# Laboratoire d'Aix-périmentation et de bidouille
 Pour en savoir plus :  
   - Site Web : http://www.labaixbidouille.com/  
   - Twitter : @LabAixBidouille  
@@ -261,3 +262,5 @@ Brique de base pour le prototypage électronique.
 - Ticket d'entré plus faible pour l'innovation
 - La vraie révolution est dans la démocratisation de l'innovation.
 
+# Merci aux sponsors
+![sponsors](sponsors.jpg)
