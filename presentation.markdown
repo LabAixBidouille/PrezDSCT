@@ -16,13 +16,13 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
     + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF. 
     + Membre fondateur du Fab Lab Provence et du Laboratoire
       d'Aixpérimentation et de Bidouille.
-    + Co-animateur de l'ICTUG #iutagile.
+    + Co-animateur de l'ICSTUG #iutagile.
     + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
 
 # Déroulement de la session
 - Contexte: De la bidouille au DIY
 - Le Mouvement des makers
-- L'agilité et makers
+- Agilité et makers
 - Démonstration impression 3D
 
 # Contexte: De la bidouille au DIY
@@ -87,7 +87,7 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 # Open Hardware
 - Du "hardware" dont les plans sont accessibles
   - Plans mécaniques
-  - Schéma électronique
+  - Schémas électroniques
   - Codes informatiques
   - Procédés de fabrication
 - Le tout sous une licence ouverte
@@ -109,14 +109,14 @@ L'humanité a toujours innové en commençant par copier. Exemples :
   
 # DIY
 Avec Internet et les outils numériques la connaissance est accessible à tous. 
-Et qu'y a t'il de mieux pour apprendre que de faire par soi même.
+Et qu'y a t-il de mieux pour apprendre que de faire par soi même ?
 ![voiture open source](rallyfighter.jpg)
 
 # DIY
 - Principaux types de hardware open source
   - Électronique
   - Impression 3D
-  - Personal fabbing (Laser cuter, CNC, Pick and place, Egg bot, ...)
+  - Fabrication personelle (Laser cuter, CNC, Pick and place, Egg bot, ...)
   ![personal fabbing](diy.jpg)
 
 # Le Mouvement des Makers
@@ -124,27 +124,27 @@ Et qu'y a t'il de mieux pour apprendre que de faire par soi même.
 
 #Génèse du DIY
 -	Masse monumentale de connaissance accessible
--	Profiter de ce qui est partagé pour apprendre à faire par sois même
+-	Profiter de ce qui est partagé pour apprendre à faire par soi-même
 -	Création de communautés
--	re-partage pour enrichir les communautés
+-	Re-partage pour alimenter les communautés
 
 #Génèse du DIY
   ![Le premier de tous les makers](spaghetti_monster.jpg)
 
-# Makers
-- Une personne qui pratique le DIY. Elle fabrique ses propres outils/instrument/objets en s'appuyant sur une communauté avec qui elle repartage ses projets.
-- L'objectif de ce repartage est de rendre à la communauté l'aide qu'elle nous a apporté.
-- Un exemple d'émergence d'une communauté auto-organisée qui fait du travail collaboratif et de l'open-innovation.
+# Maker
+- Une personne qui pratique le DIY. Elle fabrique ses propres outils/instruments/objets en s'appuyant sur une communauté avec qui elle partage ses projets.
+- L'objectif de ce partage est de rendre à la communauté l'aide qu'elle nous a apporté.
 - Moteur de ce que certains appellent la troisième révolution industrielle.
+- Un exemple d'émergence d'une communauté auto-organisée qui fait du travail collaboratif et de l'open-innovation.
 
 # Effet de mode ou mouvement de fond ?
 - Le mouvement des makers est une forme de passage de la bidouille informatique à la bidouille des objets physiques.
-- Nous somme à un instant particulier dans l'histoire : la révolution de la fabrication numérique pour tous.
+- Nous sommes à un instant particulier de l'Histoire : la révolution de la fabrication numérique pour tous.
 - Comme pour l'informatique dans les années 80, on est à un moment d'effervescence qu'il faut péréniser.
-- Peut-être le début de la transformation radicale du modèle industriel classique ?
+- Peut-être le début de la transformation radicale du modèle industriel actuel ?
 
 #Le manifeste du mouvement des makers
-Comme toute mouvement voulant apporter du changement, les Makers ont un manifeste. Pour ce manifeste, comme tous les outils des makers, il est fortement recommandé de le modifier et de l'adapter librement pour se l'approprier.
+Comme tout mouvement voulant apporter du changement, les makers se sont dotés un manifeste. Pour ce manifeste, comme tous les outils des makers, il est fortement recommandé de le modifier et de l'adapter librement pour se l'approprier.
 
 #Le manifeste du mouvement des makers: Make
 Making is fundamental to what it means to be human. We must make, create, and express ourselves to feel whole. There is something unique about making physical things. 
@@ -153,13 +153,13 @@ Making is fundamental to what it means to be human. We must make, create, and ex
 Sharing what you have made and what about making with other is the method by which maker's feeling of wholeness is achieved.
 
 #Le manifeste du mouvement des makers: Give
-There are fex thing more selfless and satisfying than giving away something you have made.
+There are few things more selfless and satisfying than giving away something you have made.
 
 #Le manifeste du mouvement des makers: Learn
 You must learn to make. You must always seek to learn more about your making. You may become a journeyman or master craftman, but you will still learn. Building a lifelong learning path ensures a rich and rewarding making life and, importantly, enable one to share.
 
 #Le manifeste du mouvement des makers: Tool Up
-You must have access to the right tools fot the projets at hand. Invest inand develop local acces to the tools you need to do the making you want to do.
+You must have access to the right tools for the projects at hand. Invest in and develop local acces to the tools you need to do the making you want to do.
 
 #Le manifeste du mouvement des makers: Play
 Be playful with what you are making, and you will be surprised, excited, and proud of what you discover.
@@ -168,32 +168,33 @@ Be playful with what you are making, and you will be surprised, excited, and pro
 Join the Maker Movement and reach out those around you who are discovering the joy of making. Hold seminars, parties, events, maker days, fairs, expos, classes, and dinners with and for the other makers in your community.
 
 #Le manifeste du mouvement des makers: Support
-This is a movement, and it requires emotional, intellectual, financial, political and institutional support. The best hope for improving the world is us, and wa are responsible for making a better future.
+This is a movement, and it requires emotional, intellectual, financial, political and institutional support. The best hope for improving the world is us, and we are responsible for making a better future.
 
 #Le manifeste du mouvement des makers: Change
 Embrace the change that will naturally occur as you go through your maker journey. Since making is fundamental to what it means to be human, you will become a more complete version of you as you make.
 
 # MakerSpace/Hackerspace/Fab Lab ?
 - Tiers-Lieux
-- Lieux ouvert, communautaire et collaboratif
-- Mise en commun des ressources et d'outils
+- Lieux ouverts, communautaires et collaboratifs
+- Mise en commun de ressources et d'outils
 - Réalisation de projets variés :
-    - Conception d'objet
+    - Conception d'objets
     - Installation technico-artistiques
     - Réparation et détournement d'objets
     - Et bien pire encore
+- Échange de compétences
 
-# Laboratoire d'Aixpérimentation et de bidouille
+# Laboratoire d'Aix-périmentation et de bidouille
 ![labaix](lab02.png)
 
-# Laboratoire d'Aixpérimentation et de bidouille
-- Fab Lab ouvert à tous (*i.e* même au marseillais pour vous dire)
+# Laboratoire d'Aix-périmentation et de bidouille
+- Fab Lab ouvert à tous (*i.e* même aux marseillais pour vous dire)
 - Pour l'instant situé dans le département Informatique de l'IUT d'Aix
-- Soirées Geekbidouilles tous 3ème vendredi du mois (Démos, bricolage et pizza)
-- Notre credo, être un Fab Lab qui essaime la philosophie des makers sur tout le territoire provençal.
+- Soirées Geekbidouilles le 3ème vendredi du mois (démos, bricolage et pizzas)
+- Notre credo : être un Fab Lab qui essaime la philosophie des makers sur tout le territoire provençal.
 
 # Laboratoire d'Aixpérimentation et de bidouille
-Pour avoir plus d'info :  
+Pour en savoir plus :  
   - Site Web : http://www.labaixbidouille.com/  
   - Twitter : @LabAixBidouille  
   - Github : https://github.com/LabAixBidouille  
@@ -206,7 +207,7 @@ Pour avoir plus d'info :
 
 # Imprimante 3D
 ![imprimante 3D](imprimante3D.png)  
-Outils le plus emblématique des makers. C'est sa démocratisation qui a fait émerger le mouvement.
+Outil le plus emblématique des makers. C'est sa démocratisation qui a fait émerger le mouvement.
 
 # Arduino
 Brique de base pour le prototypage électronique.
@@ -245,7 +246,7 @@ Brique de base pour le prototypage électronique.
 - [The Twittering Office Chair](http://www.instructables.com/id/The-Twittering-Office-Chair/?ALLSTEPS)
 
 # Agilité et makers
-Bien que ce soit deux univers totalement indépendants, on peut noter un certain nombre de similitudes.  
+- Deux univers indépendants mais avec un certain nombre de similitudes.  
 
 # Un mode de fonctionnement
 - Collaboratif
@@ -262,10 +263,10 @@ Bien que ce soit deux univers totalement indépendants, on peut noter un certain
 # Des pratiques
 - Releaser au plus tôt
 - Feed Back de la communauté
-- Amélioration continu
-- Cycle court/itération
+- Amélioration continue
+- Cycle court/itérations
 
-#Fail Fast, Fail often
+#Fail Fast, Fail Often
 - Démocratisation des outils
 - Démocratisation du risque
 - Échouons souvent pour un jour réussir
