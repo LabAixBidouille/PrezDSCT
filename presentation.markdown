@@ -222,18 +222,6 @@ Brique de base pour le prototypage électronique.
 # Déclinaisons
 ![variantes arduino](variantes.png)
 
-# Déclinaisons
-![variantes arduino rigolote](skelduino.jpg)
-
-# Plate-forme Arduino
-- Matériel :
-  - Une famille de carte avec un micro-contrôleur ATMega
-  - Des I/O numériques, analogiques et des périphériques (Série, I2C, SPI,...)  
-- Logiciel :
-  - Un IDE (moche)
-  - Un ensemble très riche de bibliothèques
-- Et surtout une communauté absolument énorme !
-
 # Il y a un shield pour absolument tout
 ![Il y a une application](shield.png)
 
