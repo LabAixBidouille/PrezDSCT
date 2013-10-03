@@ -20,7 +20,7 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 
 # Déroulement de la session
 - De la bidouille au DIY
-- Le Mouvement des makers
+- Le mouvement des makers
 - Agilité et makers
 - Démonstration impression 3D
 
@@ -57,7 +57,6 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 
 
 # La bidouille à l'heure d'Internet
--	Réseau global
 -	Horizontalité
 -	Partage et Collaboration
 -	Ouverture sur le monde
@@ -132,7 +131,7 @@ Et qu'y a t-il de mieux pour apprendre que de faire par soi même ?
 # Maker
 - Une personne qui pratique le DIY. Elle fabrique ses propres outils/instruments/objets en s'appuyant sur une communauté avec qui elle partage ses projets.
 - L'objectif de ce partage est de rendre à la communauté l'aide qu'elle nous a apporté.
-- L'effet de levier apporté par les briques mis à disposition de la communauté permet une émergence rapide des projets.
+- L'effet de levier apporté par les briques mises à disposition de la communauté permet une convergence rapide des projets.
 - Moteur de ce que certains appellent la troisième révolution industrielle.
 
 # Effet de mode ou mouvement de fond ?
@@ -253,13 +252,13 @@ Brique de base pour le prototypage électronique.
 - Releaser au plus tôt
 - Feed Back de la communauté
 - Amélioration continue
-- Cycle court/itérations
+- Cycles courts/itérations
 
 #Fail Fast, Fail Often
 - Démocratisation des outils
 - Démocratisation du risque
 - Échouons souvent pour un jour réussir
-- Ticket d'entré plus faible pour l'innovation
+- Ticket d'entrée plus faible pour l'innovation
 - La vraie révolution est dans la démocratisation de l'innovation.
 
 # Merci aux sponsors
