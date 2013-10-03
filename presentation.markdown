@@ -97,9 +97,9 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 "Nous n’avons jamais eu honte de voler les excellentes idées" Steve Jobs   
 
 L'humanité a toujours innové en commençant par copier. Exemples :  
-  - La roue  
   - Le feu  
   - La pierre taillée  
+  - La roue   
 
 # Open Hardware : la roue
 ![La roue un open hardware qui s'ignore](roue.png)
