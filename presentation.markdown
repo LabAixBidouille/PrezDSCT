@@ -19,7 +19,7 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
     + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
 
 # Déroulement de la session
-- Contexte: De la bidouille au DIY
+- De la bidouille au DIY
 - Le Mouvement des makers
 - Agilité et makers
 - Démonstration impression 3D
