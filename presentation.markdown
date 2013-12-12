@@ -205,26 +205,6 @@ Pour en savoir plus :
 - Cartes de prototypage électronique (Arduino, Raspberry Pi, ...)
 - Logiciels Libres
 
-# Imprimante 3D
-![imprimante 3D](imprimante3D.png)  
-Outil le plus emblématique des makers. C'est sa démocratisation qui a fait émerger le mouvement.
-
-# Arduino
-Brique de base pour le prototypage électronique.
-![arduino de face](ArduinoUNO_Front.jpg)
-
-# Arduino
-  - Plate-forme de prototypage électronique.
-  - Open source et simple à utiliser.
-  - Fait à la base pour des artistes.
-  - S'adresse à toute personne ayant un ordinateur et 20€.
-
-# Déclinaisons
-![variantes arduino](variantes.png)
-
-# Il y a un shield pour absolument tout
-![Il y a une application](shield.png)
-
 # Exemples de réalisation
 - [Cat Feeder](http://vimeo.com/10896151#)
 - [Open Rov](http://www.youtube.com/watch?v=CkfJh0es_J8)
@@ -254,12 +234,32 @@ Brique de base pour le prototypage électronique.
 - Amélioration continue
 - Cycles courts/itérations
 
-#Fail Fast, Fail Often
+# Fail Fast, Fail Often
 - Démocratisation des outils
 - Démocratisation du risque
 - Échouons souvent pour un jour réussir
 - Ticket d'entrée plus faible pour l'innovation
 - La vraie révolution est dans la démocratisation de l'innovation.
 
-# Merci aux sponsors
-![sponsors](sponsors.jpg)
+# Interrogation écrite flash-éclair
+Vous allez avoir 6 questions de très haut niveau pour évaluer si vous avez bien écouté cette conférence.
+
+# Interrogation écrite flash-éclair
+**Question 1** : Quel est la couleur du cheval blanc d'Henri IV ?
+
+# Interrogation écrite flash-éclair
+**Question 2** : Quel est la réponse à la grande question sur la vie, l'univers et le reste ?
+
+# Interrogation écrite flash-éclair
+**Question 3** : Que veulent dire les initiales L.A.B ?
+
+# Interrogation écrite flash-éclair
+**Question 4** : Quand aura lieu la prochaine soirée #geekbidouille du L.A.B
+
+# Interrogation écrite flash-éclair
+**Question 5** : quelle est la distance parcourue par la lumière dans le vide en 1/299 792 458 seconde?
+
+# Interrogation écrite flash-éclair
+**Question 6** : quelle est la définition de TARDIS pour le Dr Who ? 
+
+
