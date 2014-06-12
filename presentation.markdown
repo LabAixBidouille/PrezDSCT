@@ -1,4 +1,4 @@
-title: La révolution des makers : du Fab Lab à l'Agilité
+title: La révolution des makers
 subtitle: 
 author: Sébastien NEDJAR
 
@@ -13,16 +13,14 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 # À propos
 - Sébastien NEDJAR (@nedseb)
     + Maître de conférences au Département Info de l'IUT  d'Aix. Enseignant spécialiste des Bases de données et chercheur en OLAP Mining au LIF. 
-    + Membre fondateur du Fab Lab Provence et du Laboratoire
-      d'Aixpérimentation et de Bidouille.
+    + Membre fondateur du Fab Lab Provence et du Laboratoire d'Aixpérimentation et de Bidouille.
     + Co-animateur de l'ICSTUG #iutagile.
     + Et bien d'autres activités étranges (pour avoir plus de détails faire une psychanalyse d'un étudiant m'ayant subi).
 
 # Déroulement de la session
-- De la bidouille au DIY
-- Le mouvement des makers
-- Agilité et makers
-- Démonstration impression 3D
+- Présentation (45-60 Minutes)
+- Démonstration impression 3D (20-30 Minutes)
+- Discution sur le projet réalisé en classe (30-45 Minutes)
 
 # De la bidouille au DIY
 ![chausson de la mamie à nedseb](chausson_DIY.jpg)
@@ -37,7 +35,7 @@ l'humour de qualité discutable. Veuillez ne pas jeter des tomates (ou tout autr
 -	Liberté/Créativité/Plaisir/Innovation
 
 # La bidouille comme un hobby
-![Je trouve se tour Effel très belle ](tour_effel.jpg)
+![Je trouve cette tour Eiffel très belle ](tour_effel.jpg)
 
 # La bidouille dans un garage
 -	Manque de moyens, de temps et d'espace
@@ -147,33 +145,6 @@ Comme tout mouvement voulant apporter du changement, les makers se sont dotés u
 #Le manifeste du mouvement des makers
  ![Manifeste du mouvement des Makers](MakersManifeste.png)
 
-#Le manifeste du mouvement des makers: Make
-Making is fundamental to what it means to be human. We must make, create, and express ourselves to feel whole. There is something unique about making physical things. 
-
-#Le manifeste du mouvement des makers: Share
-Sharing what you have made and what about making with other is the method by which maker's feeling of wholeness is achieved.
-
-#Le manifeste du mouvement des makers: Give
-There are few things more selfless and satisfying than giving away something you have made.
-
-#Le manifeste du mouvement des makers: Learn
-You must learn to make. You must always seek to learn more about your making. You may become a journeyman or master craftman, but you will still learn. Building a lifelong learning path ensures a rich and rewarding making life and, importantly, enable one to share.
-
-#Le manifeste du mouvement des makers: Tool Up
-You must have access to the right tools for the projects at hand. Invest in and develop local acces to the tools you need to do the making you want to do.
-
-#Le manifeste du mouvement des makers: Play
-Be playful with what you are making, and you will be surprised, excited, and proud of what you discover.
-
-#Le manifeste du mouvement des makers: Participate
-Join the Maker Movement and reach out those around you who are discovering the joy of making. Hold seminars, parties, events, maker days, fairs, expos, classes, and dinners with and for the other makers in your community.
-
-#Le manifeste du mouvement des makers: Support
-This is a movement, and it requires emotional, intellectual, financial, political and institutional support. The best hope for improving the world is us, and we are responsible for making a better future.
-
-#Le manifeste du mouvement des makers: Change
-Embrace the change that will naturally occur as you go through your maker journey. Since making is fundamental to what it means to be human, you will become a more complete version of you as you make.
-
 # MakerSpace/Hackerspace/Fab Lab ?
 - Lieux ouverts, communautaires et collaboratifs
 - Mise en commun de ressources et d'outils
@@ -213,13 +184,17 @@ Pour en savoir plus :
 - [Arduino Sat](http://www.kickstarter.com/projects/575960623/ardusat-your-arduino-experiment-in-space)
 - [The Twittering Office Chair](http://www.instructables.com/id/The-Twittering-Office-Chair/?ALLSTEPS)
 
-# Agilité et makers
-- Deux univers indépendants mais avec un certain nombre de similitudes.  
+# Mouvement des makers et enseignement
+- Le monde enseignant s'interroge sur comment se révolutionner pour s'adapter aux *Digital Natives*.
+- Le numérique a changé la relation aux autres et au monde.
+- Comment l'univers des makers peut-il nous inspirer pour créer de nouvelles pratiques pédagogiques ?
+- Quelles sont les principes clefs qui nous permettrons de de faire toucher du doigts ces nouvelles approches du travail ?
 
 # Un mode de fonctionnement
 - Collaboratif
 - Horizontalité
 - Auto-organisation
+- Transversalité
 - Émergence
 
 # Des valeurs humaines
@@ -240,6 +215,9 @@ Pour en savoir plus :
 - Échouons souvent pour un jour réussir
 - Ticket d'entrée plus faible pour l'innovation
 - La vraie révolution est dans la démocratisation de l'innovation.
+
+# Questionnement 
+- Cette vision positive de la bidouille et de ce qu'elle est capable de produire peut-elle vraiment être transposable dans les classes ?
 
 # Interrogation écrite flash-éclair
 Vous allez avoir 6 questions de très haut niveau pour évaluer si vous avez bien écouté cette conférence.
